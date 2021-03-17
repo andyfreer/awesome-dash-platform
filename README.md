@@ -26,6 +26,10 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Articles
 
+- 2021-03-08: [Release Announcement Dash Platform v0.18 on Testnet](https://blog.dash.org/release-announcement-dash-platform-v0-18-on-testnet-45f421a6bc98) - Dash Blog
+- 2020-12-30: [Release Announcement Dash Platform v0.17 & DashPay on Testnet](https://blog.dash.org/release-announcement-dash-platform-v0-17-dashpay-on-testnet-13a85225902e) - Dash Blog
+- 2020-09-30: [Release Announcement Dash Core v0.16 on Mainnet](https://blog.dash.org/release-announcement-dash-core-v0-16-on-mainnet-870aa327240b) - Dash Blog
+- 2020-09-05: [Dash Platform v0.15 on Evonet](https://blog.dash.org/release-announcement-dash-platform-v0-15-on-evonet-88131f9c477b) - Dash Blog
 - 2020-07-24: [Dash Platform v0.14 on Evonet](https://blog.dash.org/release-announcement-dash-platform-v0-14-on-evonet-9e02ad97d918) - Dash Blog
 - 2020-06-14: [Dash Platform v0.13 on Evonet](https://blog.dash.org/release-announcement-dash-platform-v0-13-on-evonet-53c86b081b64) - Dash Blog
 - 2020-04-23: [Announcing the Release of Dash Platform v0.12 on Evonet](https://blog.dash.org/announcing-the-release-of-dash-platform-v0-12-on-evonet-e611f2a93ce3) - Dash Blog
@@ -42,7 +46,7 @@ Readme and the website are automatically generated. In order to add an element t
 
 - [Connecting to Evonet](https://dashplatform.readme.io/docs/tutorial-connecting-to-evonet) - The purpose of this tutorial is to walk through the steps necessary to access Dash's Decentralized API (DAPI)
 - [Create and Fund a Wallet](https://dashplatform.readme.io/docs/tutorial-create-and-fund-a-wallet) - This tutorial explains how to generate a new wallet, retrieve an address from it, and transfer test funds to the address from a faucet.
-- [DashJS](https://dashevo.github.io/DashJS/#/) - Connect to Dash from a Browser / NodeJS Server using Dash's Decentralized-API
+- [DashJS](https://dashevo.github.io/js-dash-sdk/#/) - Connect to Dash from a Browser / NodeJS Server using Dash's Decentralized-API
 - [Platform-UserID Secure Messaging Library](https://www.npmjs.com/package/dashmachine-crypto) - secure messaging between UserIDs (unique references to an individual name registration by an identity) from JS clients
 - [Register a Data Contract](https://dashplatform.readme.io/docs/tutorial-register-a-data-contract) - In this tutorial we will register a data contract.
 - [Register a Name for an Identity](https://dashplatform.readme.io/docs/tutorial-register-a-name-for-an-identity) - The purpose of this tutorial is to walk through the steps necessary to register a Dash Platform Name Service (DPNS) name.
@@ -55,16 +59,17 @@ Readme and the website are automatically generated. In order to add an element t
 
 - [DashPay](https://github.com/dashevo) - Mobile Dapp enabling Username based payments and Platform authentication (WIP)
 - [DPNS](https://dashplatform.readme.io/docs/explanation-dpns) - Name Service Dapp providing Usernames for Dash Blockchain Identities (LIVE) [Source](https://github.com/dashevo/js-dpp/tree/v0.11-dev/schema/identity)
+- [Jembe](http://jembe.dashevo.io/) - Decentralized Twitter Alternative Dapp. Join the Conversation [Source](https://github.com/dashameter/jembe)
 - [Masternode Polling Tool (Proposal)](https://chat.dashdevs.org) - Polling Masternodes for Decisions (IDEA)
-- [MemoDash (WIP)](https://memo.dashdevs.org/) - Decentralized Twitter Alternative Dapp in REACT (BOUNTY) [Source](https://github.com/alexdcox/memo-dash-prototype)
 - [Merchant Directory (Proposal)](https://app.dashnexus.org/proposals/dash-platform-merchant-directory/overview) - Merchant Directory Dapp (PROPOSAL)
-- [Web Dapp Sample](http://wds.dashmachine.net:8082/) - Sample Web Dapp enabling signup, login and tweet using a Dash username, use in conjunction with a Platform Wallet on EvoNet [Source](https://github.com/dashmachine/web-dapp-sample)
 
 ## Docs
 
 - [Core Developer Guide](https://dashcore.readme.io/docs/core-guide-introduction) - Detailed docs for working with Dash's internal Core Network
 - [Dash User Docs](https://docs.dash.org/en/stable/) - User documentation for understanding general Dash concepts & usage
-- [DashJS](https://dashevo.github.io/DashJS) - JavaScript library for Dapp developers on Dash Platform
+- [DashJS](https://dashevo.github.io/js-dash-sdk) - JavaScript library for Dapp developers on Dash Platform
+- [DIP 11](https://github.com/dashpay/dips/blob/master/dip-0011.md) - Dash Improvement Proposal (DIP) 11 on Identities
+- [DIP 12](https://github.com/dashpay/dips/blob/master/dip-0012.md) - Dash Improvement Proposal (DIP) 12 on Dash Platform Name Service (DPNS)
 - [Platform Developer Guide](https://dashplatform.readme.io/) - Guides and documentation to help you start working with Dash Platform as quickly as possible, as well as support if you get stuck.
 - [Tendermint Core Docs](https://docs.tendermint.com/master/) - Docs for Tendermint, the BFT protocol used on Layer 2 in conjunction with Masternode quorums
 
@@ -88,6 +93,12 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Videos
 
+- 2020-10-02: [What is Dash's Decentralized API? (DAPI) | Dash Platform](https://www.youtube.com/watch?v=S0pq-qOu9cQ) - This is episode 3 of a 5 part video series on Dash Platform.
+- 2020-09-25: [What is Dash Drive? | Dash Platform](https://www.youtube.com/watch?v=14N5pnl5W0Y) - This is episode 2 of a 5 part video series on Dash Platform.
+- 2020-09-18: [Dash is Becoming a Cloud | Dash Platform](https://www.youtube.com/watch?v=9WqUMrIN58Q) - This is episode 1 of a 5 part video series on Dash Platform.
+- 2020-09-05: [Demo of DashPay Contacts and Notifications](https://www.youtube.com/watch?v=pQ3_Q45HdOA) - This demo shows the contacts and notifications feature in the upcoming Dashpay wallet.
+- 2020-08-17: [Dash Dapps - Demoing Community Development on EvoNet](https://www.youtube.com/watch?v=yy8gO1C8fTs) - Demonstrating community projects built on Dash EvoNet during phase 2 of the Dash Platform Incubator proposal.
+- 2020-08-06: [Let's Talk Dash Dapps feat. Sample Dapps & Wallet API (Ep 2)](https://www.youtube.com/watch?v=76pYX44o_j8&t=7s) - Second Episode of Let's Talk Dash Dapp's. Readme looks at him Sample Dapps Collection that is communicating with Chrome Wallet API to submit data.
 - 2020-07-28: [Let's Talk Dash Dapps feat. Chrome Wallet (Ep 1)](https://www.youtube.com/watch?v=IjjsQNd3Zto) - First Episode of Let's Talk Dash Dapp's. A comprehensive introduction to Dash Platform Decentralized-API (DAPI), Usernames and Data-Contracts.
 - 2020-06-23: [Why Dash's New Username Demo Video Is Game-Changing](https://lbry.tv/@DigitalCashNetwork:c/DashUsernames:5?r=Gd7GBo8adnW7dSEBDc2pPP8Ytw9Rw3L9) - Recently Dash released a new demo video showing off usernames and how they're registered in the soon-to-be-released DashPay app, the first part of the long-awaited Evolution update, now called Dash Platform.
 - 2020-06-19: [DashPay Username Registration Demo](https://www.youtube.com/watch?v=GtTaezpxQOs) - A demo of the DashPay Username Registration Process.

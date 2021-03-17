@@ -4,6 +4,21 @@ icon: stroke_pencil
 description: Articles about Dash Platform.
 weight: 1
 content:
+  - title: Release Announcement Dash Platform v0.18 on Testnet
+    date: "2021-03-08"
+    website: https://blog.dash.org/release-announcement-dash-platform-v0-18-on-testnet-45f421a6bc98
+    description: Dash Blog
+    picture: /images/articles/v0.18_testnet.png
+  - title: Release Announcement Dash Platform v0.17 & DashPay on Testnet
+    date: "2020-12-30"
+    website: https://blog.dash.org/release-announcement-dash-platform-v0-17-dashpay-on-testnet-13a85225902e
+    description: Dash Blog
+    picture: /images/articles/v0.17_dashpay testnet.png
+  - title: Release Announcement Dash Core v0.16 on Mainnet
+    date: "2020-09-30"
+    website: https://blog.dash.org/release-announcement-dash-core-v0-16-on-mainnet-870aa327240b
+    description: Dash Blog
+    picture: /images/articles/v0.16_mainnet.png
   - title: Dash Platform v0.15 on Evonet
     date: "2020-09-05"
     website: https://blog.dash.org/release-announcement-dash-platform-v0-15-on-evonet-88131f9c477b
